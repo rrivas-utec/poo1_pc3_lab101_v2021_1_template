@@ -5,7 +5,7 @@ Práctica Calificada # 3 del curso de Programación Orientada a Objetos 1
 ## Indicaciones Específicas
 - El tiempo límite para la evaluación es 100 minutos.
 - Las preguntas deberá ser respondida en un archivo fuente (`.cpp`) y un archivo cabecera (`.h`) con el número de la pregunta:
-    - `p1.cpp, p1.h`
+    - `pc3.cpp, pc3.h`
 - Deberás subir estos archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo.
 
 ## Competencias
