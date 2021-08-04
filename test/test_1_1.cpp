@@ -3,7 +3,6 @@
 //
 #include "catch.hpp"
 #include "redirect_io.h"
-#include "global.h"
 #include "pc3.h"
 using namespace std;
 

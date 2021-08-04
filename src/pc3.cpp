@@ -8,7 +8,5 @@ using namespace std;
 
 
 void question_1_1(){
-#ifdef ENABLE_TEST
 
-#endif
 }
