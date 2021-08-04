@@ -31,10 +31,10 @@ Implementar un programa orientado a objetos que permite calcular el área plana 
 ```
 ostream& operator <<(ostream& out , compuesto_t  comp);
 ```
-![diagrama](diagrama_clases.png)
-
 **Nota:** El programa debe permitir calcular el área de figuras compuestas **solo** como las que se muestra en la imagen.
 **Sugerencias:** Basarse en el diagrama de clases mostrado a continuación y agregar al programa la clase rectángulo:
+
+![diagrama](diagrama_clases.png)
 
 ### Input Format
 ```cpp
