@@ -1,0 +1,15 @@
+#input
+    T 0 0 30 20
+    R 30 0 30 20
+    C 37.5 2.5 7.5
+#output
+    723.285
+#endtest
+
+#input
+    R 50 0 50 40
+    T 0 0 50 40
+    C 60 5 15
+#output
+    2293.142
+#endtest
