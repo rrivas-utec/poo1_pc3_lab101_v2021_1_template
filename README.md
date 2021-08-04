@@ -34,7 +34,7 @@ ostream& operator <<(ostream& out , compuesto_t  comp);
 **Nota:** El programa debe permitir calcular el área de figuras compuestas **solo** como las que se muestra en la imagen.
 **Sugerencias:** Basarse en el diagrama de clases mostrado a continuación y agregar al programa la clase rectángulo:
 
-![diagrama](diagrama_clases.png)
+![diagrama_clase](diagrama_clases.png)
 
 ### Input Format
 ```cpp
