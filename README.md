@@ -50,6 +50,6 @@ ostream& operator <<(ostream& out , compuesto_t  comp);
 
 ### Output Format
 ```bash
-  723.285
+  723.286
 ```
 
